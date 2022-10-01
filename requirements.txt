@@ -6,11 +6,7 @@ numpy
 opencv-python-headless==4.5.5.64
 easyocr
 imutils
-scipy
 matplotlib
-scikit-learn
-jupyter
-psycopg2-binary
 python-dotenv
 python-Levenshtein
 SQLAlchemy
