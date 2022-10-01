@@ -4,7 +4,6 @@ fuzzywuzzy
 heroku3
 numpy
 opencv-python
-opencv-python-headless==4.5.5.64
 psycopg2-binary
 python-dotenv
 python-Levenshtein
