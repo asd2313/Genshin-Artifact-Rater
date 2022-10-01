@@ -3,7 +3,7 @@ discord.py
 fuzzywuzzy
 heroku3
 numpy
-opencv-python
+opencv-python-headless
 psycopg2-binary
 python-dotenv
 python-Levenshtein
